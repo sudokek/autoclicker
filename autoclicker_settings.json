@@ -1,0 +1,9 @@
+{
+  "cps": 200.0,
+  "button": "Left",
+  "click_type": "Single",
+  "hotkey_vk": 117,
+  "limit_enabled": false,
+  "limit": 100,
+  "stop_on_real_click": true
+}
